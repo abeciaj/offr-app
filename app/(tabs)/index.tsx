@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Hello Staging Branch!</ThemedText>
+        <ThemedText type="title">Hello Staging!</ThemedText>
         <HelloWave />
       </ThemedView>
     </ParallaxScrollView>
